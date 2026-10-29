@@ -10,6 +10,14 @@ in `Dokumentation`.
 
 ---
 
+## Version 1.0.14 – 2026-10-29
+
+ESPRIT EDGE 2026.3, 2026.2
+
+- Demo video of the Undercut add-in in the documentation
+
+---
+
 ## Version 1.0.12 – 2026-10-28
 
 ESPRIT EDGE 2026.3, 2026.2
