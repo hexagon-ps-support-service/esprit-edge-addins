@@ -10,6 +10,14 @@ in `Dokumentation`.
 
 ---
 
+## Version 1.0.16 – 2026-10-30
+
+ESPRIT EDGE 2026.3, 2026.2
+
+- Undercut: results are created as turning features; Replace original also works when operations use the contour
+
+---
+
 ## Version 1.0.14 – 2026-10-29
 
 ESPRIT EDGE 2026.3, 2026.2
