@@ -2,11 +2,27 @@
 
 **Copyright © 2026 Hexagon**
 
-Extensions for ESPRIT EDGE. One installation package per ESPRIT EDGE release and language:
-`Hexagon Esprit Edge <release> Addins <version> DE.msi` / `EN.msi`. Documentation (German and English)
-in `Dokumentation`.
+Extensions for ESPRIT EDGE. One installation package per ESPRIT EDGE release and language (DE, EN: the
+language of the installation wizard). Documentation (German and English) in [Dokumentation](Dokumentation).
+
+## Download
+
+Newest package per ESPRIT EDGE release; all versions under [Releases](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases).
+
+| ESPRIT EDGE | Version | Package |
+| --- | --- | --- |
+| 2026.3 | 1.0.18 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.3.Addins.1.0.18.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.3.Addins.1.0.18.EN.msi) |
+| 2026.2 | 1.0.18 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.2.Addins.1.0.18.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.2.Addins.1.0.18.EN.msi) |
 
 <!-- releases -->
+
+---
+
+## Version 1.0.18 – 2026-11-02
+
+ESPRIT EDGE 2026.3, 2026.2
+
+- Installation packages now under Releases on GitHub, including earlier versions
 
 ---
 
