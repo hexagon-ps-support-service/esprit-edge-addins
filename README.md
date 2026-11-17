@@ -11,10 +11,18 @@ Newest package per ESPRIT EDGE release; all versions under [Releases](https://gi
 
 | ESPRIT EDGE | Version | Package |
 | --- | --- | --- |
-| 2026.3 | 1.0.18 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.3.Addins.1.0.18.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.3.Addins.1.0.18.EN.msi) |
-| 2026.2 | 1.0.18 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.2.Addins.1.0.18.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.18/Hexagon.Esprit.Edge.2026.2.Addins.1.0.18.EN.msi) |
+| 2026.3 | 1.0.20 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.20/Hexagon.Esprit.Edge.2026.3.Addins.1.0.20.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.20/Hexagon.Esprit.Edge.2026.3.Addins.1.0.20.EN.msi) |
+| 2026.2 | 1.0.20 | [DE](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.20/Hexagon.Esprit.Edge.2026.2.Addins.1.0.20.DE.msi) / [EN](https://github.com/hexagon-ps-support-service/esprit-edge-addins/releases/download/v1.0.20/Hexagon.Esprit.Edge.2026.2.Addins.1.0.20.EN.msi) |
 
 <!-- releases -->
+
+---
+
+## Version 1.0.20 – 2026-11-17
+
+ESPRIT EDGE 2026.3, 2026.2
+
+- Neues Add-in Freiformgewinde: Gewinde mit beliebigem Profil drehen
 
 ---
 
